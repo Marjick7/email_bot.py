@@ -19,5 +19,5 @@ def send_email():
     server.login('mohamedmarjick123@gmail.com', 'Barakath1234')
     server.sendmail('mohamedmarjick123@gmail.com',
                     'mohamedmarjick000@gmail.com',
-                    'hello'
+                    'hello World'
                     )
